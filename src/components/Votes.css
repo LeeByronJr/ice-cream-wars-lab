@@ -1,0 +1,24 @@
+.Votes {
+  flex: 1;
+}
+
+.Votes h2 {
+  color: black;
+  font-family: "Caveat", cursive;
+}
+
+.Votes .bar {
+  height: 40px;
+}
+
+.Votes #chocolate {
+  background-color: chocolate;
+}
+
+.Votes #vanilla {
+  background-color: beige;
+}
+
+.Votes #strawberry {
+  background-color: pink;
+}

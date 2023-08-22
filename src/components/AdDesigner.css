@@ -1,0 +1,26 @@
+.AdDesigner {
+  flex: 1;
+}
+
+.AdDesigner h2 {
+  color: black;
+  font-family: "Caveat", cursive;
+}
+
+span {
+  font-family: "Caveat", cursive;
+}
+
+.AdDesigner .ad {
+  height: 100px;
+  width: 150px;
+  color: #000;
+  border: solid 2px #222;
+  box-shadow: 5px 5px 5px -5px;
+  font-weight: bold;
+}
+
+.AdDesigner .dark {
+  background-color: black;
+  color: white;
+}
